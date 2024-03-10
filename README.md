@@ -1,2 +1,0 @@
-# pair-project
-ezee-sampada
